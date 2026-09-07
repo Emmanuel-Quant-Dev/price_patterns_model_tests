@@ -1,6 +1,6 @@
 price_patterns_model_tests
 
-Background
+# Background
 
 price_patterns_model_tests is a quantitative finance research project designed to analyse historical stock-price data and investigate patterns in price movements over time.
 
@@ -18,7 +18,7 @@ The project currently includes analysis such as:
 
 The aim of the project is to explore how mathematical and statistical techniques can be applied to historical financial data and to build a reusable framework for quantitative research.
 
-Repository
+## Repository
 
 Clone the repository using:
 
@@ -28,7 +28,7 @@ Then navigate into the project:
 
 cd price_patterns_model_tests
 
-Requirements
+## Requirements
 
 Python must be installed on your machine.
 
@@ -99,7 +99,7 @@ results/
 ├── AA_probability_summary.csv
 └── AA_gbm_simulations.csv
 
-Project Structure
+## Project Structure
 
 price_patterns_model_tests/
 │
@@ -123,6 +123,6 @@ price_patterns_model_tests/
 │
 └── README.md
 
-Disclaimer
+## Disclaimer
 
 This project is intended for educational and quantitative-research purposes only.
